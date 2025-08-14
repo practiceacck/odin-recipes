@@ -2,29 +2,30 @@
 
 h1{
     text-align: center;
-    font-family: "Georgia", serif;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, cursive;
 }
 
-button{
+.recipe-block{
     padding: 40px;
+    text-align: center;
     
 }
 
-.recipe-1{
+.recipe1{
     background-color: #ff0000;
     border-color: #ff0000;
     color: black;
     font-weight: light;
 }
 
-.recipe-2{
+.recipe2{
     background-color: #addfad;
     border-color: #addfad;
     color: black;
     font-weight: light;
 }
 
-.recipe-3{
+.recipe3{
     background-color: #ffff00;
     border-color: #ffff00;
     color: black;
