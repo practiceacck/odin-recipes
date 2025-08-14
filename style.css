@@ -1,0 +1,32 @@
+
+
+h1{
+    text-align: center;
+    font-family: "Georgia", serif;
+}
+
+button{
+    padding: 40px;
+    
+}
+
+.recipe-1{
+    background-color: #ff0000;
+    border-color: #ff0000;
+    color: black;
+    font-weight: light;
+}
+
+.recipe-2{
+    background-color: #addfad;
+    border-color: #addfad;
+    color: black;
+    font-weight: light;
+}
+
+.recipe-3{
+    background-color: #ffff00;
+    border-color: #ffff00;
+    color: black;
+    font-weight: light;
+}
